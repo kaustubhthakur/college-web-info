@@ -1,0 +1,124 @@
+*
+{
+    padding: 0;
+    margin: 0;
+
+}
+.conatiner{
+    background-color: aqua;
+}
+.img{
+    height: 100%;
+}
+.section-1 
+{
+   
+    height: 150px;
+    width:170px;
+    border-radius: 10px;
+    background-color: rgb(100, 185, 16);
+    color: blueviolet;
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+    
+}
+.section-2 
+{
+   
+    height: 150px;
+    width:150px;
+    border-radius: 100px;
+    background-color: rgb(219, 246, 112);
+    color: blueviolet;
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+   
+}
+
+.section-3
+{
+   
+    height: 150px;
+    width:150px;
+    border-radius: 100px;
+    background-color: rgb(64, 16, 124);
+    color: rgb(16, 5, 27);
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+   
+}
+
+.section-4
+{
+   
+    height: 150px;
+    width:150px;
+    border-radius: 100px;
+    background-color: grey;
+    color: rgb(16, 5, 27);
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+   
+}
+.section-5
+{
+   background-color: white;
+
+}
+.section-6
+{
+   
+    height: 150px;
+    width:150px;
+    border-radius: 100px;
+    background-color:red;
+    color: rgb(7, 208, 24);
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+   
+}
+.all 
+{
+    align-items: center;
+    display: flex;
+    padding: 10px;
+    margin: 100px;
+    text-align: center;
+    height: 240px;
+   
+    
+}
+.section-1 :hover
+{
+  
+    height: 150px;
+    width:150px;
+    border-radius: 100px;
+    background-color:rgb(7, 35, 126);
+    color: rgb(7, 208, 24);
+    margin: 10px;
+    padding: 5px;
+    display: flex;
+    align-items: center;
+}
+.section-5 :hover 
+{
+    height: 150px;
+    width: 150px;
+    margin: 5px;
+    padding: 10px;
+    align-items: center;
+    text-align: center;
+    border-radius: 100px;
+    box-shadow: rgb(100, 185, 16);
+}

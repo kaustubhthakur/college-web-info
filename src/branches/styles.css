@@ -1,0 +1,52 @@
+.cse 
+{
+    margin:10px 10px;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
+    color: blue;
+    background-color: rgb(201, 235, 193);
+    align-items: center;
+    text-decoration: dashed;
+    font-weight: bold;
+    border-radius: 20px;
+    border: 2px solid black;
+}
+.learn 
+{
+    background: powderblue;
+    border-radius: 10px;
+    border: 2px solid black;
+    
+}
+.history 
+{
+    background-color: aliceblue;
+    margin: 10px 10px;
+    border-radius: 10px;
+    border: 2px solid black;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+
+.whatis
+{
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.content 
+{
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.future-opportunities oppo 
+{
+    text-decoration: none;
+   
+}
+.future-opportunities 
+{
+    border-radius: 10px;
+    margin: 10px 10px;
+    background: powderblue;
+    border: 2px solid black;
+text-decoration: none;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+
+}

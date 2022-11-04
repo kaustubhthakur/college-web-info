@@ -1,0 +1,32 @@
+.what
+{
+    text-align: center;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: azure;
+}
+.ans
+{
+    text-align: left;
+    margin: 5px;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: azure;
+}
+.text
+{
+    text-align: left;
+    font-size: larger;
+    color: blue;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.syntax 
+{
+    margin: 5px;
+    padding: 5px;
+    border-radius: 20px;
+    background-color: rgb(240, 234, 227);
+    box-shadow:  0 4px 8px 0 rgba(72, 8, 79, 0.2), 0 6px 20px 0 rgba(69, 26, 105, 0.7);
+     
+}
